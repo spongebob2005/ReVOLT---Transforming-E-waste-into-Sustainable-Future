@@ -61,11 +61,11 @@ To build a simple system that helps in:
 
 ## SCREENS OF THE PROJECT
 
-![Screenshots](Project_pic_6 (1).png)
-![Screenshots](Project_pic_6 (2).png)
-![Screenshots](Project_pic_6 (3).png)
-![Screenshots](Project_pic_6 (4).png)
-![Screenshots](Project_pic_6 (5).png)
-![Screenshots](Project_pic_6 (6).png)
+![Screenshots](Project_1.png)
+![Screenshots](Project_2.png)
+![Screenshots](Project_3.png)
+![Screenshots](Project_4.png)
+![Screenshots](Project_5.png)
+![Screenshots](Project_6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
