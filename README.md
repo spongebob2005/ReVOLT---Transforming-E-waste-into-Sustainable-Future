@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 
-## ReVOLT: Turning E-Waste into Sustainable 🌱
+## ReVOLT: TURNING E-WASTE INTO SUSTAAINABLE FUTURE 🌱
 
 **ReVOLT** is a project focused on reducing electronic waste (e-waste) by collecting, recycling, and reusing old electronic devices. The main aim is to protect the environment and promote sustainability.
 
