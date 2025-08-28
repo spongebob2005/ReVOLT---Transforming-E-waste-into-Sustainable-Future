@@ -62,7 +62,7 @@ To build a simple system that helps in:
 ## SCREENS OF THE PROJECT
 
 <p align="center">
-  <img src="Project_1.jpg" alt="Project Screenshot 1" width="250" height="500">
+  <img src="Project_2.jpg" alt="Project Screenshot 1" width="250" height="500">
   <img src="Project_2.jpg" alt="Project Screenshot 2" width="250" height="500">
   <img src="Project_3.jpg" alt="Project Screenshot 3" width="250" height="500">
 </p>
