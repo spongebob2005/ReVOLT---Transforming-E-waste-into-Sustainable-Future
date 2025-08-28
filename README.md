@@ -61,11 +61,17 @@ To build a simple system that helps in:
 
 ## SCREENS OF THE PROJECT
 
-<img src="Project_1.jpg" alt="Project Screenshot 1" width="300" height="200">
-<img src="Project_2.jpg" alt="Project Screenshot 2" width="300" height="200">
-<img src="Project_3.jpg" alt="Project Screenshot 3" width="300" height="200">
-<img src="Project_4.jpg" alt="Project Screenshot 4" width="300" height="200">
-<img src="Project_5.jpg" alt="Project Screenshot 5" width="300" height="200">
-<img src="Project_6.jpg" alt="Project Screenshot 6" width="300" height="200">
+<p align="center">
+  <img src="Project_1.jpg" alt="Project Screenshot 1" width="250" height="500">
+  <img src="Project_2.jpg" alt="Project Screenshot 2" width="250" height="500">
+  <img src="Project_3.jpg" alt="Project Screenshot 3" width="250" height="500">
+</p>
+
+<p align="center">
+  <img src="Project_4.jpg" alt="Project Screenshot 4" width="250" height="500">
+  <img src="Project_5.jpg" alt="Project Screenshot 5" width="250" height="500">
+  <img src="Project_6.jpg" alt="Project Screenshot 6" width="250" height="500">
+</p>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
